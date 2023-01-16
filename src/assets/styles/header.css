@@ -1,0 +1,33 @@
+.header {
+  margin-top: 64px;
+  font-family: var(--font);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  flex-grow: 6;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.contact {
+  flex-grow: 0.8;
+  display: flex;
+  justify-content: left;
+  cursor: pointer;
+}
+
+.credits:hover,
+.contact:hover {
+  color: #0969da;
+}
+
+.credits {
+  cursor: pointer;
+  flex-grow: 1;
+  display: flex;
+  justify-content: right;
+}

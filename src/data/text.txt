@@ -1,0 +1,472 @@
+
+  
+    @ 
+      
+    
+  
+  
+    align-center-bottom 
+      
+    
+  
+  
+    align-center-horizontal 
+      
+    
+  
+  
+    align-center-vertical 
+      
+    
+  
+  
+    align-left 
+      
+    
+  
+  
+    anchor 
+      
+    
+  
+  
+    align-top 
+      
+    
+  
+  
+    align-right 
+      
+    
+  
+  
+    aperture 
+      
+    
+  
+  
+    apps-2 
+      
+    
+  
+  
+    apps 
+      
+    
+  
+  
+    art-tool 
+      
+    
+  
+  
+    avatar 
+      
+    
+  
+  
+    bag 
+      
+    
+  
+  
+    bell-off 
+      
+    
+  
+  
+    bell 
+      
+    
+  
+  
+    check-circle 
+      
+    
+  
+  
+    check-square 
+      
+    
+  
+  
+    circle-question-mark 
+      
+    
+  
+  
+    circle-exclamation-mark 
+      
+    
+  
+  
+    clipboard 
+      
+    
+  
+  
+    circle-clock 
+      
+    
+  
+  
+    close 
+      
+    
+  
+  
+    copy 
+      
+    
+  
+  
+    crop 
+      
+    
+  
+  
+    eye-off 
+      
+    
+  
+  
+    eye 
+      
+    
+  
+  
+    filter 
+      
+    
+  
+  
+    fingerprints 
+      
+    
+  
+  
+    flip-screen 
+      
+    
+  
+  
+    gift 
+      
+    
+  
+  
+    globus 
+      
+    
+  
+  
+    grid 
+      
+    
+  
+  
+    highlight-2 
+      
+    
+  
+  
+    heart 
+      
+    
+  
+  
+    highlight 
+      
+    
+  
+  
+    home_1 
+      
+    
+  
+  
+    home_2 
+      
+    
+  
+  
+    home_3 
+      
+    
+  
+  
+    inbox 
+      
+    
+  
+  
+    key-door 
+      
+    
+  
+  
+    key 
+      
+    
+  
+  
+    keys 
+      
+    
+  
+  
+    layers 
+      
+    
+  
+  
+    lock-door 
+      
+    
+  
+  
+    lock-open 
+      
+    
+  
+  
+    loupe-plus 
+      
+    
+  
+  
+    lock 
+      
+    
+  
+  
+    loupe-minus 
+      
+    
+  
+  
+    mail 
+      
+    
+  
+  
+    map-pin 
+      
+    
+  
+  
+    mark 
+      
+    
+  
+  
+    maximize-2 
+      
+    
+  
+  
+    minimize-2 
+      
+    
+  
+  
+    micro-waves 
+      
+    
+  
+  
+    minus 
+      
+    
+  
+  
+    more-horizontal 
+      
+    
+  
+  
+    more-vertical 
+      
+    
+  
+  
+    order 
+      
+    
+  
+  
+    package 
+      
+    
+  
+  
+    phone 
+      
+    
+  
+  
+    plus 
+      
+    
+  
+  
+    pulse 
+      
+    
+  
+  
+    qr-code-2 
+      
+    
+  
+  
+    qr-code 
+      
+    
+  
+  
+    rgb 
+      
+    
+  
+  
+    save 
+      
+    
+  
+  
+    screen 
+      
+    
+  
+  
+    search 
+      
+    
+  
+  
+    send 
+      
+    
+  
+  
+    setting 
+      
+    
+  
+  
+    share 
+      
+    
+  
+  
+    sliders 
+      
+    
+  
+  
+    snowflake 
+      
+    
+  
+  
+    square-clock 
+      
+    
+  
+  
+    square-exclamation-mark 
+      
+    
+  
+  
+    square-question-mark 
+      
+    
+  
+  
+    star 
+      
+    
+  
+  
+    success-door 
+      
+    
+  
+  
+    tag 
+      
+    
+  
+  
+    tap 
+      
+    
+  
+  
+    text-align-center 
+      
+    
+  
+  
+    text-align-justified 
+      
+    
+  
+  
+    text-align-left 
+      
+    
+  
+  
+    text-align-right 
+      
+    
+  
+  
+    thumbs-down 
+      
+    
+  
+  
+    thumbs-up 
+      
+    
+  
+  
+    ticket 
+      
+    
+  
+  
+    trash 
+      
+    
+  
+  
+    triangle-exclamation-mark 
+      
+    
+  
+  
+    triangle-question-mark 
+      
+    
+  
+  
+    waves 
+      
+    
+  
+  
+    wifi 
+      
+    
+  
+  
+    zip 
+      
+    
+  
+]

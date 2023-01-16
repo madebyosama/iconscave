@@ -1,0 +1,140 @@
+#icons {
+  display: flex;
+}
+
+#icons-filters {
+  min-width: 234px;
+  height: fit-content;
+  font-family: var(--font);
+  border-radius: 10px;
+  border: 1px solid #e1e1e1;
+  background-color: white;
+  padding: 10px 10px;
+  font-size: 1rem;
+  width: 150px;
+  margin-right: 8px;
+  float: left;
+  position: sticky;
+  top: 20px; /* the offset */
+  z-index: 1;
+}
+.icons-filter {
+  padding: 10px 10px;
+}
+
+.icons-filter:hover {
+  background-color: var(--background-color);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#icons-images {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-flow: row wrap;
+}
+
+.icon {
+  flex-grow: 1;
+  font-family: var(--font);
+  border-radius: 10px;
+  border: 1px solid #e1e1e1;
+  background-color: white;
+  height: 40px;
+  font-size: 1rem;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  transition: 0.2s;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  padding-right: 13px;
+  padding-left: 13px;
+  text-align: center;
+}
+.icon:hover {
+  transform: translateY(-4px);
+}
+
+.icon:hover .icon-download {
+  visibility: visible;
+  opacity: 1;
+}
+
+.icon:hover .icon-copy {
+  visibility: visible;
+  opacity: 1;
+}
+
+.icon:hover .icon-svg {
+  transform: translateY(-6px);
+}
+
+.icon:hover .icon-title {
+  transform: translateY(-3px);
+}
+
+.icon-download,
+.icon-copy {
+  position: absolute;
+  cursor: pointer;
+  visibility: hidden;
+  bottom: 8px;
+  opacity: 0;
+  transition: opacity 0.7s;
+}
+
+.icon-copy {
+  right: 13px;
+}
+
+.icon-download {
+  left: 10px;
+}
+
+.icon-svg {
+  padding-bottom: 24px;
+  transition: 0.7s;
+}
+
+.icon-title {
+  transition: 1s;
+  cursor: default;
+  font-size: 100%;
+}
+
+/* Animations */
+
+@keyframes icon-download-animation {
+  0% {
+    transform: translateY(5px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(5px);
+  }
+}
+
+.icon-download:hover {
+  animation: icon-download-animation 1s infinite;
+}
+
+@keyframes icon-copy-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(45deg);
+  }
+}
+
+.icon-copy:hover {
+  animation: icon-copy-animation 1s forwards;
+}
