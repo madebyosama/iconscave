@@ -63,7 +63,7 @@ export default function Home() {
           className='contact'
           onClick={() => window.open('https://imuhammadosama.com/')}
         >
-          Built by imuhammadosama.com
+          Built by codebyosama.com
         </div>
         <div className='logo' onClick={() => setSearchValue('')}>
           <svg
@@ -91,7 +91,7 @@ export default function Home() {
         <div
           className='credits'
           onClick={() => {
-            window.open('https://fiverr.com/imuhammadosama');
+            window.open('https://codebyosama.com/contact');
           }}
         >
           Need a website? Hire me
