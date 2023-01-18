@@ -61,7 +61,7 @@ export default function Home() {
       <div className='header'>
         <div
           className='contact'
-          onClick={() => window.open('https://imuhammadosama.com/')}
+          onClick={() => window.open('https://codebyosama.com/')}
         >
           Built by codebyosama.com
         </div>
