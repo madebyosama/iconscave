@@ -59,11 +59,14 @@ export default function Home() {
   return (
     <div>
       <div className='header'>
-        <div
-          className='contact'
-          onClick={() => window.open('https://codebyosama.com/')}
-        >
-          Built by codebyosama.com
+        <div style={{ color: '#777' }}>
+          Made with ❤ by{' '}
+          <a
+            href='https://codebyosama.com'
+            style={{ textDecoration: 'none', color: '#048484' }}
+          >
+            codebyosama.com
+          </a>
         </div>
         <div className='logo' onClick={() => setSearchValue('')}>
           <svg
